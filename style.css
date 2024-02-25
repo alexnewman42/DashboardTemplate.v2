@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Asap:wght@400;500;700&family=Roboto&display=swap');
+
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: Roboto, sans-serif;
+}
+
+body {
+    grid-template-columns: 380px 3fr 1fr;
+    grid-template-rows: 220px 4fr;
+}
+
