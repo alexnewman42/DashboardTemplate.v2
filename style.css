@@ -133,4 +133,11 @@ button {
 .main {
     grid-area: 2/2/3/3;
     background: #e2e8f0;
+    display: grid;
+    grid-template: 1fr / 3fr 1fr;
+}
+
+.projects {
+    background: blue;
+    grid-area: 1/1/2/2;
 }
