@@ -186,7 +186,6 @@ button {
 }
 
 .right {
-    background: pink;
     grid-area: 1/2/2/3;
     display: grid;
     grid-template: 1fr 1fr / 1fr;
