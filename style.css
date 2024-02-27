@@ -222,8 +222,6 @@ button {
 .trending {
     background: beige;
     grid-area: 2/1/3/2;
-    display: grid;
-    grid-template: 1fr 1fr 1fr 1fr / 1fr;
 }
 
 
