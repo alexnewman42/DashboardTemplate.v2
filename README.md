@@ -1,2 +1,2 @@
 # DashboardTemplate.v2
-Fully Dynamic Dashboard Template
+Dynamic Dashboard Template that uses Grid
