@@ -224,4 +224,14 @@ button {
     grid-area: 2/1/3/2;
 }
 
+.profile {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+}
 
+.profile img {
+    height: 60px;
+    margin-right: 20px;
+}
