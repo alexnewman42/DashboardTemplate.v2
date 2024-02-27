@@ -230,7 +230,7 @@ button {
     background-color: white;
     border: solid 1px #e2e8f0;
     border-radius: 10px;
-    padding: 5px 30px;
+    padding: 20px 30px;
     margin-top: 20px;
     box-shadow: 5px 5px 5px grey;
 }
@@ -240,10 +240,15 @@ button {
     flex-direction: row;
     justify-content: flex-start;
     align-items: center;
-    margin-top: 5px;
+    margin-bottom: 16px;
+
 }
 
 .profile img {
     height: 60px;
     margin-right: 20px;
+}
+
+.profile p {
+    font-size: 20px;
 }
